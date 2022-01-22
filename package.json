@@ -10,6 +10,7 @@
   "author": "",
   "license": "",
   "dependencies": {
+    "cross-spawn": "^7.0.3",
     "json-server": "^0.16.3",
     "live-server": "^1.2.1"
   }
